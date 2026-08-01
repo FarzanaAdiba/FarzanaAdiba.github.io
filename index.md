@@ -113,7 +113,7 @@ where I worked on clinical NLP, and an M.Sc./B.Sc. degrees in Computer Science a
 
 - **Program Committee** — AAAI AI for Social Impact Track (2027); Workshop on Bangla Language Processing @ EMNLP (2023–present)
 - **Reviewer** — CHIL (2025–present), MLHC (2024–present), ML4H (2025), DAIH @ COLM (2026), AMIA Informatics (2023–present)
-- **Co-chair** — Journal Club, Dept. of Pharmaceutical Outcomes and Policy, University of Florida (Fall 2023)
+
 
 ---
 
