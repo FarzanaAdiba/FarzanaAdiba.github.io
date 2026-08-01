@@ -5,7 +5,7 @@ Ph.D. student, Department of Computer & Information Sciences, University of Dela
 [fadiba@udel.edu](mailto:fadiba@udel.edu) ·
 [Google Scholar](https://scholar.google.com/citations?user=hKT7FvAAAAAJ&hl=en) ·
 [GitHub](https://github.com/FarzanaAdiba) ·
-[ResearchGate](https://www.researchgate.net/profile/YOUR_PROFILE) ·
+[ResearchGate](https://www.researchgate.net/profile/Farzana-Adiba-2) ·
 [CV](assets/Farzana_Islam_Adiba_CV.pdf)
 
 ---
