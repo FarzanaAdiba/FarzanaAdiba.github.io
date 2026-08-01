@@ -8,7 +8,7 @@
   <a href="#awards">Awards</a>
 </nav>
 
-## Farzana Islam Adiba
+## Farzana Islam Adiba {#about}
 
 Ph.D. student, Department of Computer & Information Sciences, University of Delaware
 
