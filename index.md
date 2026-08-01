@@ -22,7 +22,7 @@ Ph.D. student, Department of Computer & Information Sciences, University of Dela
 
 I am a Ph.D. student in the [Department of Computer & Information Sciences](https://www.cis.udel.edu/) at the
 [University of Delaware](https://www.udel.edu/), work in [HealthlAife](https://sites.udel.edu/healthylaife/) advised by Prof.
-[Rahmatollah Beheshti](https://sites.udel.edu/rbi/)). I joined in Fall 2024.
+[Rahmatollah Beheshti](https://sites.udel.edu/rbi/). I joined in Fall 2024.
 
 My current research is on **bias and fairness in medical large language models** - both measuring it
 (counterfactual evaluation, demographic perturbation of clinical vignettes, knowledge-graph-augmented
