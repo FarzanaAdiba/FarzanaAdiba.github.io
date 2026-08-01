@@ -1,5 +1,5 @@
 <nav class="topbar">
-  <a href="#about">About</a>
+  <a href="#">About</a>
   <a href="#news">News</a>
   <a href="#publications">Publications</a>
   <a href="#software">Software</a>
@@ -8,15 +8,13 @@
   <a href="#awards">Awards</a>
 </nav>
 
-## Farzana Islam Adiba {#about}
-
 Ph.D. student, Department of Computer & Information Sciences, University of Delaware
 
 [fadiba@udel.edu](mailto:fadiba@udel.edu) ·
 [Google Scholar](https://scholar.google.com/citations?user=hKT7FvAAAAAJ&hl=en) ·
 [GitHub](https://github.com/FarzanaAdiba) ·
 [ResearchGate](https://www.researchgate.net/profile/Farzana-Adiba-2) ·
-[CV](assets/Farzana_Islam_Adiba_CV.pdf)
+[CV](assets/FarzanaAdiba_CV2026_last.pdf)
 
 ---
 
