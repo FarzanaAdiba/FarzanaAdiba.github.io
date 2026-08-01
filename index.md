@@ -11,15 +11,6 @@
   </p>
 </div>
 
-Ph.D. student, Department of Computer & Information Sciences, University of Delaware
-
-[fadiba@udel.edu](mailto:fadiba@udel.edu) ·
-[Google Scholar](https://scholar.google.com/citations?user=hKT7FvAAAAAJ&hl=en) ·
-[GitHub](https://github.com/FarzanaAdiba) ·
-[ResearchGate](https://www.researchgate.net/profile/Farzana-Adiba-2) ·
-[CV](assets/FarzanaAdiba_CV2026_last.pdf)
-
----
 
 I am a Ph.D. student in the [Department of Computer & Information Sciences](https://www.cis.udel.edu/) at the
 [University of Delaware](https://www.udel.edu/), work in [HealthlAife](https://sites.udel.edu/healthylaife/) advised by Prof.
