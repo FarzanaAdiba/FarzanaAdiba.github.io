@@ -1,13 +1,15 @@
-<nav class="topbar">
-  <a href="#">About</a>
-  <a href="#news">News</a>
-  <a href="#publications">Publications</a>
-  <a href="#software">Software</a>
-  <a href="#service">Service</a>
-  <a href="#teaching">Teaching</a>
-  <a href="#awards">Awards</a>
-</nav>
 <img src="assets/images/cover.jpg" alt="" class="cover">
+
+<div class="intro">
+  <p class="role">Ph.D. Student · Department of Computer &amp; Information Sciences<br>University of Delaware</p>
+  <p class="links">
+    <a href="mailto:fadiba@udel.edu">Email</a> ·
+    <a href="https://scholar.google.com/citations?user=hKT7FvAAAAAJ&hl=en">Google Scholar</a> ·
+    <a href="https://github.com/FarzanaAdiba">GitHub</a> ·
+    <a href="https://www.researchgate.net/profile/Farzana-Adiba-2">ResearchGate</a> ·
+    <a href="assets/FarzanaAdiba_CV2026_last.pdf">CV</a>
+  </p>
+</div>
 
 Ph.D. student, Department of Computer & Information Sciences, University of Delaware
 
