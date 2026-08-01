@@ -7,6 +7,7 @@
   <a href="#teaching">Teaching</a>
   <a href="#awards">Awards</a>
 </nav>
+<img src="assets/cover.jpg" alt="" class="cover">
 
 Ph.D. student, Department of Computer & Information Sciences, University of Delaware
 
