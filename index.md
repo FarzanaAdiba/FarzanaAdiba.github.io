@@ -75,7 +75,7 @@ where I worked on clinical NLP, and an M.Sc./B.Sc. degrees in Computer Science a
 **Posters**
 
 - *Large Language Models for Identifying Social Determinants of Health in Postpartum Depression.*
-  37th Annual Research Showcase, College of Pharmacy, University of Florida.
+  37th Annual Research Showcase-2024, University of Florida.
 - *Deep Learning and NLP Methods for Characterizing Pediatric Fall Events.* **AMIA 2023**, New Orleans, LA.
 - *Design and Development of Spectrometer for Chromatography.* **NSysS 2019**, BUET, Dhaka.
 
