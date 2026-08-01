@@ -57,3 +57,30 @@ hr {
   border-top: 1px solid #eaecef;
   margin: 2.2rem 0;
 }
+.topbar {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: rgba(255, 255, 255, 0.95);
+  border-bottom: 1px solid #e1e4e8;
+  padding: 0.7rem 0;
+  margin-bottom: 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.25rem;
+  font-size: 0.9rem;
+}
+
+.topbar a {
+  color: #444;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.topbar a:hover {
+  color: #0366d6;
+  text-decoration: none;
+}
+
+h2, h3 { scroll-margin-top: 4rem; }
+html { scroll-behavior: smooth; }
