@@ -1,5 +1,13 @@
+<nav class="topbar">
+  <a href="#">About</a>
+  <a href="#news">News</a>
+  <a href="#publications">Publications</a>
+  <a href="#software">Software</a>
+  <a href="#service">Service</a>
+  <a href="#teaching">Teaching</a>
+  <a href="#awards">Awards</a>
+</nav>
 <img src="assets/images/cover.jpg" alt="" class="cover">
-
 <div class="intro">
   <p class="role">Ph.D. Student · Department of Computer &amp; Information Sciences<br>University of Delaware</p>
   <p class="links">
