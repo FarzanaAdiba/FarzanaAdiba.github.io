@@ -7,6 +7,7 @@
   <a href="#service">Service</a>
   <a href="#teaching">Teaching</a>
   <a href="#awards">Awards</a>
+  <a href="#beyond-research">Beyond Research</a>
 </nav>
 <img src="assets/images/cover.jpg" alt="" class="cover">
 <div class="intro">
@@ -133,3 +134,7 @@ where I worked on clinical NLP, and an M.Sc./B.Sc. degrees in Computer Science a
 - Bangladesh Government Scholarship for undergraduate academic performance (2015–2019)
 - Jahangirnagar University Supplementary Scholarship (2015–2019)
 - Jahangirnagar University Scholarship — 1st position, undergraduate admission test (2014–2015)
+
+---
+## Beyond Research
+**Books.** Currently reading [Animal Farm - George Orwell]. [My Goodreads](https://www.goodreads.com/user/show/53268366-adiba-farzana)
