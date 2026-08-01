@@ -2,6 +2,7 @@
   <a href="#">About</a>
   <a href="#news">News</a>
   <a href="#publications">Publications</a>
+  <a href="#education">Education</a>
   <a href="#software">Software</a>
   <a href="#service">Service</a>
   <a href="#teaching">Teaching</a>
@@ -90,6 +91,14 @@ where I worked on clinical NLP, and an M.Sc./B.Sc. degrees in Computer Science a
 - *Design and Development of Spectrometer for Chromatography.* **NSysS 2019**, BUET, Dhaka.
 
 ---
+
+
+## Education
+
+- **Ph.D. in Computer Science** — University of Delaware, Newark, DE. *Fall 2024 – present*
+- **M.S. in AI in Healthcare Initiatives**, University of Florida, Gainesville, FL. *2024*
+- **M.Sc. in Computer Science and Engineering** — Jahangirnagar University, Dhaka, Bangladesh. *2019 – 2022*
+- **B.Sc. in Computer Science and Engineering** — Jahangirnagar University, Dhaka, Bangladesh. *2015 – 2019*
 
 ## Software
 
