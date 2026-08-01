@@ -1,3 +1,13 @@
+<nav class="topbar">
+  <a href="#about">About</a>
+  <a href="#news">News</a>
+  <a href="#publications">Publications</a>
+  <a href="#software">Software</a>
+  <a href="#service">Service</a>
+  <a href="#teaching">Teaching</a>
+  <a href="#awards">Awards</a>
+</nav>
+
 ## Farzana Islam Adiba
 
 Ph.D. student, Department of Computer & Information Sciences, University of Delaware
