@@ -3,11 +3,10 @@
   <a href="#news">News</a>
   <a href="#publications">Publications</a>
   <a href="#education">Education</a>
-  <a href="#software">Software</a>
   <a href="#service">Service</a>
   <a href="#teaching">Teaching</a>
   <a href="#awards">Awards</a>
-  <a href="#beyond-research">Beyond Research</a>
+  <a href="#misc">Misc</a>
 </nav>
 <img src="assets/images/cover.jpg" alt="" class="cover">
 <div class="intro">
@@ -101,13 +100,6 @@ where I worked on clinical NLP, and an M.Sc./B.Sc. degrees in Computer Science a
 - **M.Sc. in Computer Science and Engineering** — Jahangirnagar University, Dhaka, Bangladesh. *2019 – 2022*
 - **B.Sc. in Computer Science and Engineering** — Jahangirnagar University, Dhaka, Bangladesh. *2015 – 2019*
 
-## Software
-
-- **[MIMIC-IV-Data-Pipeline](https://github.com/healthylaife/MIMIC-IV-Data-Pipeline)** — configurable
-  preprocessing pipeline for MIMIC-IV: cohort extraction, feature engineering, ML-ready multimodal outputs.
-- **[LLM-KG-Bias](https://github.com/healthylaife/LLM-KG-Bias)** — knowledge-graph-augmented multi-hop
-  framework for probing implicit bias in medical LLMs.
-
 ---
 
 ## Service
@@ -136,5 +128,5 @@ where I worked on clinical NLP, and an M.Sc./B.Sc. degrees in Computer Science a
 - Jahangirnagar University Scholarship — 1st position, undergraduate admission test (2014–2015)
 
 ---
-## Beyond Research
-**Books.** Currently reading [Animal Farm - George Orwell]. [My Goodreads](https://www.goodreads.com/user/show/53268366-adiba-farzana)
+## Misc
+**Books.** My reading list at [Goodreads](https://www.goodreads.com/user/show/53268366-adiba-farzana)
