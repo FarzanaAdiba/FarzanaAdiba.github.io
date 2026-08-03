@@ -8,7 +8,6 @@
   <a href="#awards">Awards</a>
   <a href="#misc">Misc</a>
 </nav>
-<img src="assets/images/cover.jpg" alt="" class="cover">
 <div class="intro">
   <p class="role">Ph.D. Student · Department of Computer &amp; Information Sciences<br>University of Delaware</p>
   <p class="links">
@@ -21,18 +20,12 @@
 </div>
 
 
-I am a Ph.D. student in the [Department of Computer & Information Sciences](https://www.cis.udel.edu/) at the
-[University of Delaware](https://www.udel.edu/), work in [HealthlAife](https://sites.udel.edu/healthylaife/) advised by Prof.
-[Rahmatollah Beheshti](https://sites.udel.edu/rbi/). I joined in Fall 2024.
-
-My current research is on **bias and fairness in medical large language models** - both measuring it
-(counterfactual evaluation, demographic perturbation of clinical vignettes, knowledge-graph-augmented
-multi-hop reasoning) and explaining it mechanistically, using causal mediation analysis to localize the
-model components where a demographic disparity is actually computed. More broadly, I work on AI for
+I am a second-year Ph.D. student in the [Department of Computer & Information Sciences](https://www.cis.udel.edu/) at the
+[University of Delaware (UD)](https://www.udel.edu/), work in [HealthlAife](https://sites.udel.edu/healthylaife/) advised by Prof.
+[Rahmatollah Beheshti](https://sites.udel.edu/rbi/). My current research is on **bias and fairness in medical large language models**, where I analyze the impact of clinically sensitive attributes and their consequences on clinical fairness. More broadly, I work on AI for
 health equity, clinical decision support, and health informatics.
 
-Before UD,  I completed an M.S. at the University of Florida,
-where I worked on clinical NLP, and an M.Sc./B.Sc. degrees in Computer Science and Engineering at Jahangirnagar University, Bangladesh.
+Before UD, I completed a Master's focusing on AI in Healthcare Initiatives at the University of Florida, and I finished my M.Sc./B.Sc. degrees in Computer Science and Engineering at Jahangirnagar University, Bangladesh.
 
 ---
 
