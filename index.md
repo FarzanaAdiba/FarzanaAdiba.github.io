@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
 <nav class="topbar">
   <a href="#">About</a>
   <a href="#news">News</a>
@@ -15,11 +16,11 @@
   <div class="intro-text">
     <p class="role">Ph.D. Student · Department of Computer &amp; Information Sciences<br>University of Delaware</p>
     <p class="links">
-      <a href="mailto:fadiba@udel.edu">Email</a> ·
-      <a href="https://scholar.google.com/citations?user=hKT7FvAAAAAJ&hl=en">Google Scholar</a> ·
-      <a href="https://github.com/FarzanaAdiba">GitHub</a> ·
-      <a href="https://www.researchgate.net/profile/Farzana-Adiba-2">ResearchGate</a> ·
-      <a href="assets/FarzanaAdiba_CV2026_last.pdf">CV</a>
+      <a href="mailto:fadiba@udel.edu"><i class="fa-solid fa-envelope"></i>Email</a>
+      <a href="https://scholar.google.com/citations?user=hKT7FvAAAAAJ&hl=en"><i class="fa-solid fa-graduation-cap"></i>Google Scholar</a>
+      <a href="https://github.com/FarzanaAdiba"><i class="fa-brands fa-github"></i>GitHub</a>
+      <a href="https://www.researchgate.net/profile/Farzana-Adiba-2"><i class="fa-brands fa-researchgate"></i>ResearchGate</a>
+      <a href="assets/FarzanaAdiba_CV2026_last.pdf"><i class="fa-solid fa-file-lines"></i>CV</a>
     </p>
   </div>
 </div>
