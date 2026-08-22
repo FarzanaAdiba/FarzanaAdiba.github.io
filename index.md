@@ -107,8 +107,7 @@ Before UD, I completed a Master's focusing on AI in Healthcare Initiatives at th
 
 - **University of Delaware** — TA, CISC220 Data Structures (Fall 2024 – Spring 2025)
 - **University of Florida** — TA, PHA6805 Applied Data Analysis and Interpretation (Fall 2023)
-- **UITS, Dhaka** — Lecturer, Dept. of CSE (2022 – present, on study leave). Numerical Methods,
-  Computer Networks, Linux Programming, DBMS, Structured Programming (Java)
+- **University of Information Technology and Sciences (UITS), Dhaka** — Lecturer, Dept. of CSE (2022 – present, on study leave). Numerical Methods, Computer Networks, Linux Programming, DBMS, Structured Programming (Java)
 
 ---
 
