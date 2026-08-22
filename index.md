@@ -11,7 +11,7 @@
 <meta name="robots" content="noimageindex">
 
 <div class="intro">
-  <img src="assets/adiba.jpg" alt="" class="headshot">
+  <img src="assets/images/adiba.jpg" alt="" class="headshot">
   <div class="intro-text">
     <p class="role">Ph.D. Student · Department of Computer &amp; Information Sciences<br>University of Delaware</p>
     <p class="links">
