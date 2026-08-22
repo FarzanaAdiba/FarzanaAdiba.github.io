@@ -20,20 +20,55 @@ h1, h2, h3, h4 {
   color: #111;
 }
 
+/* Section headings that read as dividers, not just bold text */
 h2 {
-  font-size: 1.35rem;
-  margin-top: 2.6rem;
-  margin-bottom: 0.9rem;
-  padding-bottom: 0.3rem;
-  border-bottom: 1px solid #e1e4e8;
+  font-size: 0.82rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--muted);
+  font-weight: 600;
+  border-bottom: none;
+  margin-top: 3rem;
+  margin-bottom: 1.1rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--border);
 }
 
-h3 {
-  font-size: 1.05rem;
+h3, .pub-group {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--heading);
   margin-top: 1.6rem;
-  margin-bottom: 0.5rem;
-  color: #444;
+  margin-bottom: 0.6rem;
 }
+
+/* Publications: hanging indent, so author lines don't blur together */
+#publications + p + ul li,
+.pub-list li {
+  list-style: none;
+  padding-left: 1.4rem;
+  text-indent: -1.4rem;
+  margin-bottom: 0.9rem;
+  line-height: 1.55;
+}
+
+/* News: date column that scans */
+.news-list { list-style: none; padding: 0; }
+.news-list li {
+  display: grid;
+  grid-template-columns: 5.5rem 1fr;
+  gap: 0.8rem;
+  margin-bottom: 0.7rem;
+  align-items: baseline;
+}
+.news-list .date {
+  font-size: 0.8rem;
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+}
+
+/* Kill the dead space between hr-separated sections */
+hr { display: none; }
 
 /* Comfortable measure — long author lists become unreadable past ~800px */
 .container-lg, .container, .wrapper, section, .main-content {
