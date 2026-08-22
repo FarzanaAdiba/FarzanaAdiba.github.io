@@ -27,7 +27,7 @@
 
 
 I am a second-year Ph.D. student in the [Department of Computer & Information Sciences](https://www.cis.udel.edu/) at the
-[University of Delaware (UD)](https://www.udel.edu/), work in [HealthlAife](https://sites.udel.edu/healthylaife/) advised by Prof.
+[University of Delaware (UD)](https://www.udel.edu/), work in [HealthylAife](https://sites.udel.edu/healthylaife/) advised by Prof.
 [Rahmatollah Beheshti](https://sites.udel.edu/rbi/). My current research is on **bias and fairness in medical large language models**, where I analyze the impact of clinically sensitive attributes and their consequences on clinical fairness. More broadly, I work on AI for
 health equity, clinical decision support, and health informatics.
 
