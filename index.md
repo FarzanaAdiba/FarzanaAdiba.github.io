@@ -19,7 +19,7 @@
       <a href="mailto:fadiba@udel.edu"><i class="fa-solid fa-envelope"></i>Email</a>
       <a href="https://scholar.google.com/citations?user=hKT7FvAAAAAJ&hl=en"><i class="fa-solid fa-graduation-cap"></i>Google Scholar</a>
       <a href="https://github.com/FarzanaAdiba"><i class="fa-brands fa-github"></i>GitHub</a>
-      <a href="https://www.researchgate.net/profile/Farzana-Adiba-2"><i class="fa-brands fa-researchgate"></i>ResearchGate</a>
+      <a href="https://www.linkedin.com/in/farzana-islam-adiba-19695615a"><i class="fa-brands fa-linkedin"></i>LinkedIn</a>
       <a href="assets/FarzanaAdiba_CV2026_last.pdf"><i class="fa-solid fa-file-lines"></i>CV</a>
     </p>
   </div>
@@ -37,8 +37,9 @@ Before UD, I completed a Master's focusing on AI in Healthcare Initiatives at th
 
 ## News
 
-- **Aug 2026** - Nominated as Reviewer for ML4H Symposium (Machine Learning for Health) 2026.
+- **Aug 2026** - Serving as Reviewer for ML4H Symposium (Machine Learning for Health) 2026.
 - **Jul 2026** — Serving on the Program Committee for the **AAAI 2027** AI for Social Impact track.
+- **Apr 2026** - Served as Reviewer for Machine Learning for Healthcare (MLHC) 2026.
 - **Jan 2026** — Preprint: *A Multimodal Data Processing Pipeline for MIMIC-IV Dataset* ([arXiv:2601.11606](https://arxiv.org/abs/2601.11606)).
 - **Jul 2025** — Preprint: *Tell Me You're Biased Without Telling Me You're Biased* ([arXiv:2507.21176](https://arxiv.org/abs/2507.21176)).
 - **Jun 2025** — Scoping review on bias and fairness in medical LLMs posted ([OSF](https://doi.org/10.31219/osf.io/fqejh_v1)).
