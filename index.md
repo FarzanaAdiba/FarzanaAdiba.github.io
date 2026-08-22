@@ -36,6 +36,7 @@ Before UD, I completed a Master's focusing on AI in Healthcare Initiatives at th
 
 ## News
 
+- **Aug 2026** - Nominated as Reviewer for ML4H Symposium (Machine Learning for Health) 2026.
 - **Jul 2026** — Serving on the Program Committee for the **AAAI 2027** AI for Social Impact track.
 - **Jan 2026** — Preprint: *A Multimodal Data Processing Pipeline for MIMIC-IV Dataset* ([arXiv:2601.11606](https://arxiv.org/abs/2601.11606)).
 - **Jul 2025** — Preprint: *Tell Me You're Biased Without Telling Me You're Biased* ([arXiv:2507.21176](https://arxiv.org/abs/2507.21176)).
