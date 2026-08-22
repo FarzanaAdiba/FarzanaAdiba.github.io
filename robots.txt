@@ -1,1 +1,8 @@
+User-agent: *
+Allow: /
 
+User-agent: Googlebot-Image
+Disallow: /assets/
+
+User-agent: Bingbot-Image
+Disallow: /assets/
