@@ -68,7 +68,7 @@ Before UD, I completed a Master's focusing on AI in Healthcare Initiatives at th
   *Multivariate Time Series Prediction of Pediatric ICU Data Using Deep Learning.*
   **ICITIIT 2021**, Kottayam, India. [doi](https://doi.org/10.1109/ICITIIT51526.2021.9399593)
 
-  **Preprints**
+**Preprints**
 
 - **Farzana Islam Adiba**, Varsha Danduri, Fahmida Liza Piya, Ali Abbasi, Mehak Gupta, Rahmatollah Beheshti.
   *A Multimodal Data Processing Pipeline for MIMIC-IV Dataset.*
@@ -83,13 +83,6 @@ Before UD, I completed a Master's focusing on AI in Healthcare Initiatives at th
   [OSF](https://doi.org/10.31219/osf.io/fqejh_v1)
 - Elise Omaki\*, **Farzana Islam Adiba**\*, Muhammad Bilal, Shobhan Kumar, Kimia Zandbiglari, Masoud Rouhizadeh.
   *A Comparative Study of Machine Learning and Deep Learning Techniques for Classifying Pediatric Fall Injuries Using NLP on NEISS Narratives.* (\*equal contribution)
-
-**Posters**
-
-- *Large Language Models for Identifying Social Determinants of Health in Postpartum Depression.*
-  37th Annual Research Showcase-2024, University of Florida.
-- *Deep Learning and NLP Methods for Characterizing Pediatric Fall Events.* **AMIA 2023**, New Orleans, LA.
-- *Design and Development of Spectrometer for Chromatography.* **NSysS 2019**, BUET, Dhaka.
 
 ---
 
