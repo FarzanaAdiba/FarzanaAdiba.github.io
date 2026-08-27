@@ -49,22 +49,6 @@ Before UD, I completed a Master's focusing on AI in Healthcare Initiatives at th
 
 ## Publications
 
-**Preprints**
-
-- **Farzana Islam Adiba**, Varsha Danduri, Fahmida Liza Piya, Ali Abbasi, Mehak Gupta, Rahmatollah Beheshti.
-  *A Multimodal Data Processing Pipeline for MIMIC-IV Dataset.*
-  [arXiv:2601.11606](https://arxiv.org/abs/2601.11606) ·
-  [code](https://github.com/healthylaife/MIMIC-IV-Data-Pipeline)
-- **Farzana Islam Adiba**, Rahmatollah Beheshti.
-  *Tell Me You're Biased Without Telling Me You're Biased — Toward Revealing Implicit Biases in Medical LLMs.*
-  [arXiv:2507.21176](https://arxiv.org/abs/2507.21176) ·
-  [code](https://github.com/healthylaife/LLM-KG-Bias)
-- **Farzana Islam Adiba**, Yifan Zhang, Rahmatollah Beheshti.
-  *Bias and Fairness in Medical LLMs: An Extensive Scoping Review.*
-  [OSF](https://doi.org/10.31219/osf.io/fqejh_v1)
-- Elise Omaki\*, **Farzana Islam Adiba**\*, Muhammad Bilal, Shobhan Kumar, Kimia Zandbiglari, Masoud Rouhizadeh.
-  *A Comparative Study of Machine Learning and Deep Learning Techniques for Classifying Pediatric Fall Injuries Using NLP on NEISS Narratives.* (\*equal contribution)
-
 **Journal**
 
 - Ruba Sajdeya, Mamoun T. Mardini, Patrick J. Tighe, Ronald L. Ison, Chen Bai, Sebastian Jugl, Hanzhi Gao,
@@ -83,6 +67,22 @@ Before UD, I completed a Master's focusing on AI in Healthcare Initiatives at th
 - **Farzana Islam Adiba**, Sharmin Nahar Sharwardy, Mohammad Zahidur Rahman.
   *Multivariate Time Series Prediction of Pediatric ICU Data Using Deep Learning.*
   **ICITIIT 2021**, Kottayam, India. [doi](https://doi.org/10.1109/ICITIIT51526.2021.9399593)
+
+  **Preprints**
+
+- **Farzana Islam Adiba**, Varsha Danduri, Fahmida Liza Piya, Ali Abbasi, Mehak Gupta, Rahmatollah Beheshti.
+  *A Multimodal Data Processing Pipeline for MIMIC-IV Dataset.*
+  [arXiv:2601.11606](https://arxiv.org/abs/2601.11606) ·
+  [code](https://github.com/healthylaife/MIMIC-IV-Data-Pipeline)
+- **Farzana Islam Adiba**, Rahmatollah Beheshti.
+  *Tell Me You're Biased Without Telling Me You're Biased — Toward Revealing Implicit Biases in Medical LLMs.*
+  [arXiv:2507.21176](https://arxiv.org/abs/2507.21176) ·
+  [code](https://github.com/healthylaife/LLM-KG-Bias)
+- **Farzana Islam Adiba**, Yifan Zhang, Rahmatollah Beheshti.
+  *Bias and Fairness in Medical LLMs: An Extensive Scoping Review.*
+  [OSF](https://doi.org/10.31219/osf.io/fqejh_v1)
+- Elise Omaki\*, **Farzana Islam Adiba**\*, Muhammad Bilal, Shobhan Kumar, Kimia Zandbiglari, Masoud Rouhizadeh.
+  *A Comparative Study of Machine Learning and Deep Learning Techniques for Classifying Pediatric Fall Injuries Using NLP on NEISS Narratives.* (\*equal contribution)
 
 **Posters**
 
