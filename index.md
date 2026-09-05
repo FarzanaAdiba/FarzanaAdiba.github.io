@@ -38,8 +38,8 @@ Before UD, I completed a Master's focusing on AI in Healthcare Initiatives at th
 ## News
 
 - **Aug 2026** - Serving as Reviewer for ML4H Symposium (Machine Learning for Health) 2026.
-- **Jul 2026** — Serving on the Program Committee for the **AAAI 2027** AI for Social Impact track.
-- **Apr 2026** - Served as Reviewer for Machine Learning for Healthcare (MLHC) 2026.
+- **Jul 2026** — Served as Program Committee and reviewed six papers for the **AAAI 2027** AI for Social Impact track.
+- **Apr 2026** - R as a reviewer for Machine Learning for Healthcare (MLHC) 2026.
 - **Jan 2026** — Preprint: *A Multimodal Data Processing Pipeline for MIMIC-IV Dataset* ([arXiv:2601.11606](https://arxiv.org/abs/2601.11606)).
 - **Jul 2025** — Preprint: *Tell Me You're Biased Without Telling Me You're Biased* ([arXiv:2507.21176](https://arxiv.org/abs/2507.21176)).
 - **Jun 2025** — Scoping review on bias and fairness in medical LLMs posted ([OSF](https://doi.org/10.31219/osf.io/fqejh_v1)).
@@ -68,8 +68,9 @@ Before UD, I completed a Master's focusing on AI in Healthcare Initiatives at th
   *Multivariate Time Series Prediction of Pediatric ICU Data Using Deep Learning.*
   **ICITIIT 2021**, Kottayam, India. [doi](https://doi.org/10.1109/ICITIIT51526.2021.9399593)
 
-**Preprints**
+**Under review**
 
+- **Farzana Islam Adiba**, Hamed Fayyaz, Raphael Poulain, and Rahmatollah Beheshti. *Enabling scalable evaluation of bias patterns in medical LLMs.* [code](https://github.com/healthylaife/autofair)
 - **Farzana Islam Adiba**, Varsha Danduri, Fahmida Liza Piya, Ali Abbasi, Mehak Gupta, Rahmatollah Beheshti.
   *A Multimodal Data Processing Pipeline for MIMIC-IV Dataset.*
   [arXiv:2601.11606](https://arxiv.org/abs/2601.11606) ·
@@ -81,8 +82,6 @@ Before UD, I completed a Master's focusing on AI in Healthcare Initiatives at th
 - **Farzana Islam Adiba**, Yifan Zhang, Rahmatollah Beheshti.
   *Bias and Fairness in Medical LLMs: An Extensive Scoping Review.*
   [OSF](https://doi.org/10.31219/osf.io/fqejh_v1)
-- Elise Omaki\*, **Farzana Islam Adiba**\*, Muhammad Bilal, Shobhan Kumar, Kimia Zandbiglari, Masoud Rouhizadeh.
-  *A Comparative Study of Machine Learning and Deep Learning Techniques for Classifying Pediatric Fall Injuries Using NLP on NEISS Narratives.* (\*equal contribution)
 
 ---
 
