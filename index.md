@@ -53,7 +53,7 @@ Before UD, I completed a Master's focusing on AI in Healthcare Initiatives at th
 
 **Journal**
 
-- **Farzana Islam Adiba**, Hamed Fayyaz, Raphael Poulain, and Rahmatollah Beheshti. 2026. Enabling Scalable Evaluation of Unfair Patterns in Medical LLMs. ACM Trans. Comput. Healthcaren(November 2026). [DOI](https://doi.org/10.1145/3861001).
+- **Farzana Islam Adiba**, Hamed Fayyaz, Raphael Poulain, and Rahmatollah Beheshti. 2026. *Enabling Scalable Evaluation of Unfair Patterns in Medical LLMs*. ACM Trans. Comput. Healthcare (November 2026). [DOI](https://doi.org/10.1145/3861001).
 - Ruba Sajdeya, Mamoun T. Mardini, Patrick J. Tighe, Ronald L. Ison, Chen Bai, Sebastian Jugl, Hanzhi Gao,
   Kimia Zandbiglari, **Farzana Islam Adiba**, Almut G. Winterstein, Thomas A. Pearson, Robert L. Cook, Masoud Rouhizadeh.
   *Developing and validating a natural language processing algorithm to extract preoperative cannabis use status
@@ -73,7 +73,6 @@ Before UD, I completed a Master's focusing on AI in Healthcare Initiatives at th
 
 **Under review**
 
-- **Farzana Islam Adiba**, Hamed Fayyaz, Raphael Poulain, and Rahmatollah Beheshti. *Enabling scalable evaluation of bias patterns in medical LLMs.* [code](https://github.com/healthylaife/autofair)
 - **Farzana Islam Adiba**, Varsha Danduri, Fahmida Liza Piya, Ali Abbasi, Mehak Gupta, Rahmatollah Beheshti.
   *A Multimodal Data Processing Pipeline for MIMIC-IV Dataset.*
   [arXiv:2601.11606](https://arxiv.org/abs/2601.11606) ·
