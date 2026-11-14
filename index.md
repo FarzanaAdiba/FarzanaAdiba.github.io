@@ -37,6 +37,7 @@ Before UD, I completed a Master's focusing on AI in Healthcare Initiatives at th
 
 ## News
 
+- **Oct 2026** - Paper accepted in ACM Transactions on Computing for Healthcare ([ACM HEALTH](https://dl.acm.org/doi/10.1145/3861001))
 - **Aug 2026** - Serving as Reviewer for ML4H Symposium (Machine Learning for Health) 2026.
 - **Jul 2026** — Served as Program Committee and reviewed **six** papers for the **AAAI 2027** AI for Social Impact track.
 - **Jul 2026** - Reviewed **Three** papers for the workshop DAIH@3rd Conference on Language Modeling (COLM).
