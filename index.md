@@ -37,15 +37,15 @@ Before UD, I completed a Master's focusing on AI in Healthcare Initiatives at th
 
 ## News
 
-- **Oct 2026** - Paper accepted in ACM Transactions on Computing for Healthcare ([ACM HEALTH](https://dl.acm.org/doi/10.1145/3861001))
-- **Aug 2026** - Serving as Reviewer for ML4H Symposium (Machine Learning for Health) 2026.
-- **Jul 2026** — Served as Program Committee and reviewed **six** papers for the **AAAI 2027** AI for Social Impact track.
-- **Jul 2026** - Reviewed **Three** papers for the workshop DAIH@3rd Conference on Language Modeling (COLM).
-- **Apr 2026** - Reviewed **four** papers for Machine Learning for Healthcare (MLHC) 2026.
-- **Jan 2026** — Preprint: *A Multimodal Data Processing Pipeline for MIMIC-IV Dataset* ([arXiv:2601.11606](https://arxiv.org/abs/2601.11606)).
-- **Jul 2025** — Preprint: *Tell Me You're Biased Without Telling Me You're Biased* ([arXiv:2507.21176](https://arxiv.org/abs/2507.21176)).
-- **Jun 2025** — Scoping review on bias and fairness in medical LLMs posted ([OSF](https://doi.org/10.31219/osf.io/fqejh_v1)).
-- **Sep 2024** — Started my Ph.D. at the University of Delaware.
+- **Oct 2026** -- Paper accepted in ACM Transactions on Computing for Healthcare ([ACM HEALTH](https://dl.acm.org/doi/10.1145/3861001))
+- **Aug 2026** -- Serving as Reviewer for ML4H Symposium (Machine Learning for Health) 2026.
+- **Jul 2026** -- Served as Program Committee and reviewed **six** papers for the **AAAI 2027** AI for Social Impact track.
+- **Jul 2026** -- Reviewed **Three** papers for the workshop DAIH@3rd Conference on Language Modeling (COLM).
+- **Apr 2026** -- Reviewed **four** papers for Machine Learning for Healthcare (MLHC) 2026.
+- **Jan 2026** -- Preprint: *A Multimodal Data Processing Pipeline for MIMIC-IV Dataset* ([arXiv:2601.11606](https://arxiv.org/abs/2601.11606)).
+- **Jul 2025** -- Preprint: *Tell Me You're Biased Without Telling Me You're Biased* ([arXiv:2507.21176](https://arxiv.org/abs/2507.21176)).
+- **Jun 2025** -- Scoping review on bias and fairness in medical LLMs posted ([OSF](https://doi.org/10.31219/osf.io/fqejh_v1)).
+- **Sep 2024** -- Started my Ph.D. at the University of Delaware.
 
 ---
 
@@ -53,13 +53,13 @@ Before UD, I completed a Master's focusing on AI in Healthcare Initiatives at th
 
 **Journal**
 
-- **Farzana Islam Adiba**, Hamed Fayyaz, Raphael Poulain, and Rahmatollah Beheshti. 2026. *Enabling Scalable Evaluation of Unfair Patterns in Medical LLMs*. ACM Trans. Comput. Healthcare (November 2026). [DOI](https://doi.org/10.1145/3861001).
-- Ruba Sajdeya, Mamoun T. Mardini, Patrick J. Tighe, Ronald L. Ison, Chen Bai, Sebastian Jugl, Hanzhi Gao,
+ - **Farzana Islam Adiba**, Hamed Fayyaz, Raphael Poulain, and Rahmatollah Beheshti. 2026. *Enabling Scalable Evaluation of Unfair Patterns in Medical LLMs*. ACM Trans. Comput. Healthcare (November 2026). [DOI](https://doi.org/10.1145/3861001).
+ - Ruba Sajdeya, Mamoun T. Mardini, Patrick J. Tighe, Ronald L. Ison, Chen Bai, Sebastian Jugl, Hanzhi Gao,
   Kimia Zandbiglari, **Farzana Islam Adiba**, Almut G. Winterstein, Thomas A. Pearson, Robert L. Cook, Masoud Rouhizadeh.
   *Developing and validating a natural language processing algorithm to extract preoperative cannabis use status
   documentation from unstructured narrative clinical notes.*
   **JAMIA**, 30(8):1418–1428, 2023. [DOI](https://doi.org/10.1093/jamia/ocad080)
-- **Farzana Islam Adiba**, Tahmina Islam, M. Shamim Kaiser, Mufti Mahmud, Muhammad Arifur Rahman.
+ - **Farzana Islam Adiba**, Tahmina Islam, M. Shamim Kaiser, Mufti Mahmud, Muhammad Arifur Rahman.
   *Effect of corpora on classification of fake news using Naive Bayes classifier.* **IJAAIML**, 1(1), 2020.
 
 **Conference**
