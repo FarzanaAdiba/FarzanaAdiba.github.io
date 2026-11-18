@@ -54,13 +54,8 @@ Before UD, I completed a Master's focusing on AI in Healthcare Initiatives at th
 **Journal**
 
  - **Farzana Islam Adiba**, Hamed Fayyaz, Raphael Poulain, and Rahmatollah Beheshti. 2026. *Enabling Scalable Evaluation of Unfair Patterns in Medical LLMs*. ACM Trans. Comput. Healthcare (November 2026). [DOI](https://doi.org/10.1145/3861001).
- - Ruba Sajdeya, Mamoun T. Mardini, Patrick J. Tighe, Ronald L. Ison, Chen Bai, Sebastian Jugl, Hanzhi Gao,
-  Kimia Zandbiglari, **Farzana Islam Adiba**, Almut G. Winterstein, Thomas A. Pearson, Robert L. Cook, Masoud Rouhizadeh.
-  *Developing and validating a natural language processing algorithm to extract preoperative cannabis use status
-  documentation from unstructured narrative clinical notes.*
-  **JAMIA**, 30(8):1418–1428, 2023. [DOI](https://doi.org/10.1093/jamia/ocad080)
- - **Farzana Islam Adiba**, Tahmina Islam, M. Shamim Kaiser, Mufti Mahmud, Muhammad Arifur Rahman.
-  *Effect of corpora on classification of fake news using Naive Bayes classifier.* **IJAAIML**, 1(1), 2020.
+ - Ruba Sajdeya, Mamoun T. Mardini, Patrick J. Tighe, Ronald L. Ison, Chen Bai, Sebastian Jugl, Hanzhi Gao, Kimia Zandbiglari, **Farzana Islam Adiba**, Almut G. Winterstein, Thomas A. Pearson, Robert L. Cook, Masoud Rouhizadeh. *Developing and validating a natural language processing algorithm to extract preoperative cannabis use status documentation from unstructured narrative clinical notes.* **JAMIA**, 30(8):1418–1428, 2023. [DOI](https://doi.org/10.1093/jamia/ocad080)
+ - **Farzana Islam Adiba**, Tahmina Islam, M. Shamim Kaiser, Mufti Mahmud, Muhammad Arifur Rahman. *Effect of corpora on classification of fake news using Naive Bayes classifier.* **IJAAIML**, 1(1), 2020.
 
 **Conference**
 
